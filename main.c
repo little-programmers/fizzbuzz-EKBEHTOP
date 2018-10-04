@@ -13,4 +13,5 @@ void fizzbuzz (int n,int m) {
 
 int main() {
 	fizzbuzz(6, 36);
+	return 0;
 }
